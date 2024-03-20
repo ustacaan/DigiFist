@@ -64,7 +64,7 @@ body {font-family: 'Avenir', sans-serif;}
 		p a::after {
 			content: ''; 
 			display: block;
-			width: 138px; 
+			width: 139px; 
 			height: 1px; 
 			margin-top: 5px;
 			background-color: #FFFFFF; 
@@ -282,7 +282,7 @@ body {font-family: 'Avenir', sans-serif;}
 		p a::after {
 			content: ''; 
 			display: block;
-			width: 148px; 
+			width: 140px; 
 			height: 1px; 
 			margin-top: 5px;
 			background-color: #000000; 
