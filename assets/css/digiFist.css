@@ -1,5 +1,5 @@
  /* MOBILE */
- @media (max-width: 360px) {
+@media (max-width: 767px) {
 	* {
 		margin: 0;
 		padding: 0;
@@ -210,7 +210,7 @@
 }
 
 /* DESKOP */
-@media (min-width: 361px) {
+@media (min-width: 768px) {
 	* {
 		margin: 0;
 		padding: 0;
