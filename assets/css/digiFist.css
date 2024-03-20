@@ -76,7 +76,7 @@
 		height: 218px;
 		background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 78.65%);
 		opacity: 0.5;
-		z-index: 0; /* Arka plan arkada olsun */
+		z-index: 0;
 	}
 	
 	header h2,
