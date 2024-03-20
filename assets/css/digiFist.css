@@ -1,5 +1,5 @@
  /* MOBILE */
-@media (max-width: 767px) {
+ @media (max-width: 575px) {
 	* {
 		margin: 0;
 		padding: 0;
@@ -13,6 +13,7 @@
     width: 360px;
     font-family: sans-serif;
     max-width: 100%;
+    width: 100vh;	
 	}
 
 	.left img {
@@ -72,11 +73,13 @@
 		position: absolute;
 		top: -26px;
 		left: -24px;
-		width: 360px;
+		min-width: 360px;
+		max-width: 767px;
+		width: 100vw;
 		height: 218px;
 		background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 78.65%);
 		opacity: 0.5;
-		z-index: 0;
+		z-index: 0;  
 	}
 	
 	header h2,
@@ -209,7 +212,7 @@
 }
 
 /* DESKOP */
-@media (min-width: 768px) {
+@media (min-width: 576px) {
 	* {
 		margin: 0;
 		padding: 0;
