@@ -1,5 +1,5 @@
  /* MOBILE */
-  @media only screen and (max-width: 360px) {
+ @media (max-width: 360px) {
 	* {
 		margin: 0;
 		padding: 0;
@@ -210,7 +210,7 @@
 }
 
 /* DESKOP */
-@media only screen and (min-width: 361px) and (max-width: 1440px) {
+@media (min-width: 361px) {
 	* {
 		margin: 0;
 		padding: 0;
