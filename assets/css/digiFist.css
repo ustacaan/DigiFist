@@ -1,4 +1,5 @@
 @import url('https://fonts.cdnfonts.com/css/avenir');
+@import url('https://fonts.cdnfonts.com/css/itc-avant-garde-pro-md');
 body {font-family: 'Avenir', sans-serif;}
 /* MOBILE */
  @media (max-width: 575px) {
@@ -41,6 +42,8 @@ body {font-family: 'Avenir', sans-serif;}
 			color: #FFFFFF;
 			padding-bottom: 16px;
 			margin-top: -220px;
+			font-family: 'ITC Avant Garde Pro Md', sans-serif !important;
+                                                
 		}
 
 		p:first-of-type {
@@ -249,6 +252,7 @@ body {font-family: 'Avenir', sans-serif;}
 			font-size: 31.25px;
 			line-height: 40.62px;
 			color: #000000;
+			font-family: 'ITC Avant Garde Pro Md', sans-serif !important;
 			
 		}
 
