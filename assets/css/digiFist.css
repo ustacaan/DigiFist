@@ -252,7 +252,8 @@ body {font-family: 'Avenir', sans-serif;}
 		h2{
 			align-items: center;
 			font-style: normal;
-			font-weight: 800;
+			font-weight: 700;
+			letter-spacing: 1px; 
 			font-size: 31.25px;
 			line-height: 40.62px;
 			color: #000000;
