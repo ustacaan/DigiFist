@@ -220,31 +220,27 @@ body {font-family: 'Avenir', sans-serif;}
 /* DESKOP */
 @media (min-width: 576px) {
 	* {
-		margin: 0;
-		padding: 0;
-		box-sizing: border-box;
-	}
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
 
-	.container {
-		margin: 0 auto;
-		width: 100%;
-		max-width: 1440px;
-		display: grid;
-		grid-template-columns: repeat(2, 1fr);
-	}
+    .container {
+        margin: 0 auto;
+        width: 100%;
+        max-width: 100%;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); 
+    }
 
-	.left {
-		display: flex;
-	}
-	
-	.left img {
-		flex: 1;
-		max-width: 720px;
-    		height: 864px; 
-    		display: block;
-		z-index: 2;
-		overflow: hidden;
-	}
+    .left img {
+        flex: 1;
+        max-width: 100%; 
+        height: auto; 
+        display: block;
+        z-index: 2;
+        overflow: hidden;
+    }
 
 	/* header start */
 	header{ 
