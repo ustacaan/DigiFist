@@ -235,7 +235,7 @@ body {font-family: 'Avenir', sans-serif;}
 
     .left img {
         max-width: 100%; 
-        width: 50%; 
+        width: 720px; 
         height: 864px; 
         display: block;
         z-index: 2;
