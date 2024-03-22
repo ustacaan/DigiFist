@@ -252,11 +252,11 @@ body {font-family: 'Avenir', sans-serif;}
 		h2{
 			align-items: center;
 			font-style: normal;
-			font-weight: 700;
+			font-weight: 800;
 			font-size: 31.25px;
 			line-height: 40.62px;
 			color: #000000;
-			font-family: 'ITC Avant Garde Pro Md' !important;
+			font-family: 'ITC Avant Garde Pro Md', sans-serif !important;
 			
 		}
 
