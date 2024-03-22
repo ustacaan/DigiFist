@@ -3,6 +3,10 @@
 
 body {font-family: 'Avenir', sans-serif;}
 
+.container {
+	        max-width: 1440px;
+		margin: 0 auto;
+}
 /* MOBILE */
  @media (max-width: 575px) {
 	 * {
@@ -13,10 +17,7 @@ body {font-family: 'Avenir', sans-serif;}
 
 
 	.container {
-		margin: 0 auto;
-    		width: 360px;
-   		max-width: 100%;
-    		width: 100vh;	
+   		max-width: 575px;
 	}
 
 	.left {margin-bottom: -219px;}
@@ -226,9 +227,7 @@ body {font-family: 'Avenir', sans-serif;}
     }
 
     .container {
-        margin: 0 auto;
         width: 100%;
-        max-width: 100%;
         display: grid;
         grid-template-columns: repeat(2, 1fr); 
     }
