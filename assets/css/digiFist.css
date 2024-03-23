@@ -233,9 +233,9 @@ body {font-family: 'Avenir', sans-serif;}
     }
 
     .left img {
-        width: 100%; 
-        width: 720px; 
-        height: 864px; 
+	max-width: 720px; 
+	width: 100%; 
+	height: auto;
         display: block;
         z-index: 2;
         overflow: hidden;
