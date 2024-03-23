@@ -313,7 +313,7 @@ body {font-family: 'Avenir', sans-serif;}
 		max-width: 230px;
 		width: 100%;
 		overflow: hidden;
-		flex: 0 0 auto;
+		flex: 1 0 auto;
 		scroll-snap-align: start;
 	}
 
