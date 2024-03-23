@@ -233,12 +233,10 @@ body {font-family: 'Avenir', sans-serif;}
     }
 
     .left img {
-	max-width: 720px; 
-	width: 100%; 
-	height: auto;
-        display: block;
-        z-index: 2;
-        overflow: hidden;
+   		max-width: 720px;
+		max-height: 864px;
+    		display: block;
+    		overflow: hidden;
     }
 
 	/* header start */
